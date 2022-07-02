@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: #f2ebd6;
+  justify-content: center;
+}
+.pic {
+  width: 200px;
+}
